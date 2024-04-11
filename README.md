@@ -17,7 +17,7 @@
 <ol>
   <li>Ensure that <code>docker</code>, <code>node</code> and <code>npm</code> are installed</li>
   <li><code>docker build . -t express-docker</code></li>
-  <li><code>docker run -p 8080:8080 express-basic</code></li>
+  <li><code>docker run -p 8080:8080 express-docker</code></li>
   <li>Open the <code>localhost</code> link provided in the terminal</li>
 </ol>
 <div align="center">
